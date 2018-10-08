@@ -176,10 +176,10 @@
     <Content Include="startbootstrap-creative-gh-pages\css\creative.min.css" />
     <Content Include="startbootstrap-creative-gh-pages\gulpfile.js" />
     <Content Include="startbootstrap-creative-gh-pages\img\about.jpg" />
+    <Content Include="startbootstrap-creative-gh-pages\img\e-compass.png" />
     <Content Include="startbootstrap-creative-gh-pages\img\portfolio\fullsize\Dev.jpg" />
     <Content Include="startbootstrap-creative-gh-pages\img\portfolio\fullsize\Developer.jpg" />
     <Content Include="startbootstrap-creative-gh-pages\img\DSC_0980.JPG" />
-    <Content Include="startbootstrap-creative-gh-pages\img\header.jpg" />
     <Content Include="startbootstrap-creative-gh-pages\img\portfolio\fullsize\Leader.jpg" />
     <Content Include="startbootstrap-creative-gh-pages\img\portfolio\fullsize\1.jpg" />
     <Content Include="startbootstrap-creative-gh-pages\img\portfolio\fullsize\2.jpg" />
@@ -188,6 +188,8 @@
     <Content Include="startbootstrap-creative-gh-pages\img\portfolio\fullsize\5.jpg" />
     <Content Include="startbootstrap-creative-gh-pages\img\portfolio\fullsize\6.jpg" />
     <Content Include="startbootstrap-creative-gh-pages\img\portfolio\fullsize\MANAGER.jpg" />
+    <Content Include="startbootstrap-creative-gh-pages\img\portfolio\shape-26.jpg" />
+    <Content Include="startbootstrap-creative-gh-pages\img\shape.jpg" />
     <Content Include="startbootstrap-creative-gh-pages\img\portfolio\thumbnails\1.jpg" />
     <Content Include="startbootstrap-creative-gh-pages\img\portfolio\thumbnails\2.jpg" />
     <Content Include="startbootstrap-creative-gh-pages\img\portfolio\thumbnails\3.jpg" />
