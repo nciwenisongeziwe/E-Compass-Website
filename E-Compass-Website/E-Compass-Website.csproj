@@ -189,6 +189,7 @@
     <Content Include="startbootstrap-creative-gh-pages\img\portfolio\fullsize\6.jpg" />
     <Content Include="startbootstrap-creative-gh-pages\img\portfolio\fullsize\MANAGER.jpg" />
     <Content Include="startbootstrap-creative-gh-pages\img\portfolio\shape-26.jpg" />
+    <Content Include="startbootstrap-creative-gh-pages\img\portfolio\thumbnails\MANAGER.jpg" />
     <Content Include="startbootstrap-creative-gh-pages\img\shape.jpg" />
     <Content Include="startbootstrap-creative-gh-pages\img\portfolio\thumbnails\1.jpg" />
     <Content Include="startbootstrap-creative-gh-pages\img\portfolio\thumbnails\2.jpg" />
@@ -199,7 +200,6 @@
     <Content Include="startbootstrap-creative-gh-pages\img\portfolio\thumbnails\Dev.jpg" />
     <Content Include="startbootstrap-creative-gh-pages\img\portfolio\thumbnails\Developer.jpg" />
     <Content Include="startbootstrap-creative-gh-pages\img\portfolio\thumbnails\Leader.jpg" />
-    <Content Include="startbootstrap-creative-gh-pages\img\portfolio\thumbnails\MANAGER.jpg" />
     <Content Include="startbootstrap-creative-gh-pages\index.html" />
     <Content Include="startbootstrap-creative-gh-pages\js\creative.js" />
     <Content Include="startbootstrap-creative-gh-pages\js\creative.min.js" />
