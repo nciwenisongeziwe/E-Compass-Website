@@ -40,6 +40,9 @@ h6 {
 
 .bg-primary {
     background-color: #00FF00 !important;
+    background-image: url('../img/shape.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .bg-dark {
@@ -53,6 +56,19 @@ h6 {
 section {
     padding: 8rem 0;
     background-image: url("../img/shape.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg {
+    /* The image used */
+    background-image: url('../img/shape.jpg');
+    /* Full height */
+    height: 100%;
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .section-heading {
