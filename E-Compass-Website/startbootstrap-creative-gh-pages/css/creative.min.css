@@ -3,7 +3,16 @@ body{font-family:Merriweather,'Helvetica Neue',Arial,sans-serif}
 hr{max-width:50px;border-width:3px;border-color:#f05f40}
 hr.light{border-color:#fff}a{color:#f05f40;-webkit-transition:all .2s;-moz-transition:all .2s;transition:all .2s}
 a:hover{color:#f05f40}h1,h2,h3,h4,h5,h6{font-family:'Open Sans','Helvetica Neue',Arial,sans-serif}
-.bg-primary{background-color:#00FF00!important}
+.bg-primary {
+    background-color: #00FF00 !important;
+    background-image: url('../img/map.jpg');
+    /* Full height */
+    height: 200px;
+    /* Center and scale the image nicely */
+    /*background-position: center;*/
+    background-repeat: repeat;
+    background-size: cover;
+}
 .bg-dark{background-color:#212529!important}
 .text-faded{color:rgba(255,255,255,.7)
 }section{padding:8rem 0; background-image: url("../img/map.jpg");}
