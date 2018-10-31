@@ -39,10 +39,10 @@ h6 {
 }
 
 .bg-primary {
-    background-color: #00FF00 !important;
-    background-image: url('../img/map.jpg');
-    background-repeat: no-repeat;
-    background-size: cover;
+	background-color: #00FF00 !important;
+	background-image: url("../img/maps-local-search1-ss-1920.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 
 .bg-dark {
@@ -54,21 +54,21 @@ h6 {
 }
 
 section {
-    padding: 8rem 0;
-    background-image: url("../img/map.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
+	padding: 8rem 0;
+	background-image: url("../img/maps-local-search1-ss-1920.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 
 .bg {
-    /* The image used */
-    background-image: url('../img/map.jpg');
-    /* Full height */
-    height: 100%;
-    /* Center and scale the image nicely */
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
+	/* The image used */
+	background-image: url("../img/maps-local-search1-ss-1920.jpg");
+	/* Full height */
+	height: 100%;
+	/* Center and scale the image nicely */
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 
 .section-heading {
@@ -186,7 +186,7 @@ img::-moz-selection {
 header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 56px);
-  background-image: url("../img/map.jpg");
+  background-image: url("../img/maps-local-search1-ss-1920.jpg");
   background-position: center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
